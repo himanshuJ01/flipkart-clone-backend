@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "data.exception.msg",
+    "type": "java.lang.String",
+    "description": "A description for 'data.exception.msg'"
+  },
+  {
+    "name": "data.exception.message",
+    "type": "java.lang.String",
+    "description": "A description for 'data.exception.message'"
+  },
+  {
+    "name": "spring.data.mongodb.autoConnectRetry",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.autoConnectRetry'"
+  },
+  {
+    "name": "spring.data.mongodb.socketKeepAlive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.socketKeepAlive'"
+  },
+  {
+    "name": "spring.data.mongodb.socketTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.socketTimeout'"
+  },
+  {
+    "name": "spring.data.mongodb.socketKeepAlive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.socketKeepAlive'"
+  },
+  {
+    "name": "spring.data.mongodb.socketKeepAlive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.socketKeepAlive'"
+  },
+  {
+    "name": "spring.data.mongodb.socketKeepAlive",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.socketKeepAlive'"
+  },
+  {
+    "name": "spring.data.mongodb.socketTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.socketTimeout'"
+  },
+  {
+    "name": "spring.data.mongodb.socketTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.socketTimeout'"
+  },
+  {
+    "name": "spring.data.mongodb.socketTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.socketTimeout'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  }
+]}

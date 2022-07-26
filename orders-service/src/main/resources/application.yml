@@ -1,0 +1,23 @@
+server:
+   port: 9092
+   
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: flipkartOrder
+#      uri: mongodb+srv://admin:h123@cluster0.z7qznjc.mongodb.net/flipkartOrders?retryWrites=true&w=majority
+
+
+  application:
+    name: ORDER-SERVICE
+ 
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    hostname: localhost  
